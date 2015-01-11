@@ -1,7 +1,7 @@
 # Jading
 
 Jading is a build and execution tool for
-[cascading.jruby](https://github.com/etsy/cascading.jruby) that handles
+[cascading.jruby](https://github.com/mrwalker/cascading.jruby) that handles
 packaging all the dependencies of your scripts into a jar for execution on a
 Hadoop cluster.
 
